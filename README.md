@@ -1,5 +1,5 @@
 # 15/BC.D3 Demonstrate individual responsibility, creativity and effective self-management in the design, development and review of a website.
-![alt text](image-1.png) asdasd
+![alt text](image-1.png)
 
 
 
